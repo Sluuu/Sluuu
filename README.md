@@ -1,5 +1,5 @@
-### Hi, my name is Sean Liu. I am in my final year of university. 👋
+### Hi, my name is Sean Liu. 👋
 
-I am a fourth-year student at the University of Toronto
+I am currently an undergraduate student at the University of Toronto. 
 
-- ⚡ Fun fact: ...
+

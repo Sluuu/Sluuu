@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Sean Liu. I am in the final year of university. 👋
 
 <!--
 **Sluuu/Sluuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
